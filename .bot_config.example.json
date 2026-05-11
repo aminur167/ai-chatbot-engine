@@ -1,0 +1,13 @@
+{
+  "target_sender": "Bon",
+  "app_click": [960, 540],
+  "chat_select_start": [650, 180],
+  "chat_select_end": [1850, 900],
+  "input_click": [960, 1000],
+  "loop_delay_seconds": 5,
+  "model": "gpt-4o-mini",
+  "confirm_before_send": false,
+  "max_reply_words": 35,
+  "reply_log_enabled": true,
+  "blocked_keywords": ["otp", "password", "pin", "card", "bkash", "nagad"]
+}
